@@ -1,0 +1,146 @@
+[
+  {
+    "Id": "p1",
+    "Title": "Forest Waterfall",
+    "ImageSrc": "forest-waterfall.jpg",
+    "ImageAlt": "A tranquil forest with a cascading waterfall amidst greenery.",
+    "Latitude": 44.5588,
+    "Longitude": -80.344
+  },
+  {
+    "Id": "p2",
+    "Title": "Sahara Desert Dunes",
+    "ImageSrc": "desert-dunes.jpg",
+    "ImageAlt": "Golden dunes stretching to the horizon in the Sahara Desert.",
+    "Latitude": 25.0,
+    "Longitude": 0.0
+  },
+  {
+    "Id": "p3",
+    "Title": "Himalayan Peaks",
+    "ImageSrc": "majestic-mountains.jpg",
+    "ImageAlt": "The sun setting behind snow-capped peaks of majestic mountains.",
+    "Latitude": 27.9881,
+    "Longitude": 86.925
+  },
+  {
+    "Id": "p4",
+    "Title": "Caribbean Beach",
+    "ImageSrc": "caribbean-beach.jpg",
+    "ImageAlt": "Pristine white sand and turquoise waters of a Caribbean beach.",
+    "Latitude": 18.2208,
+    "Longitude": -66.5901
+  },
+  {
+    "Id": "p5",
+    "Title": "Ancient Grecian Ruins",
+    "ImageSrc": "ruins.jpg",
+    "ImageAlt": "Historic ruins standing tall against the backdrop of the Grecian sky.",
+    "Latitude": 37.9715,
+    "Longitude": 23.7257
+  },
+  {
+    "Id": "p6",
+    "Title": "Amazon Rainforest Canopy",
+    "ImageSrc": "rainforest.jpg",
+    "ImageAlt": "Lush canopy of a rainforest, teeming with life.",
+    "Latitude": -3.4653,
+    "Longitude": -62.2159
+  },
+  {
+    "Id": "p7",
+    "Title": "Northern Lights",
+    "ImageSrc": "northern-lights.jpg",
+    "ImageAlt": "Dazzling display of the Northern Lights in a starry sky.",
+    "Latitude": 64.9631,
+    "Longitude": -19.0208
+  },
+  {
+    "Id": "p8",
+    "Title": "Japanese Temple",
+    "ImageSrc": "japanese-temple.jpg",
+    "ImageAlt": "Ancient Japanese temple surrounded by autumn foliage.",
+    "Latitude": 34.9949,
+    "Longitude": 135.785
+  },
+  {
+    "Id": "p9",
+    "Title": "Great Barrier Reef",
+    "ImageSrc": "great-barrier-reef.jpg",
+    "ImageAlt": "Vibrant coral formations of the Great Barrier Reef underwater.",
+    "Latitude": -18.2871,
+    "Longitude": 147.6992
+  },
+  {
+    "Id": "p10",
+    "Title": "Parisian Streets",
+    "ImageSrc": "parisian-streets.jpg",
+    "ImageAlt": "Charming streets of Paris with historic buildings and cafes.",
+    "Latitude": 48.8566,
+    "Longitude": 2.3522
+  },
+  {
+    "Id": "p11",
+    "Title": "Grand Canyon",
+    "ImageSrc": "grand-canyon.jpg",
+    "ImageAlt": "Expansive view of the deep gorges and ridges of the Grand Canyon.",
+    "Latitude": 36.1069,
+    "Longitude": -112.1129
+  },
+  {
+    "Id": "p12",
+    "Title": "Venetian Canals",
+    "ImageSrc": "venetian-canals.jpg",
+    "ImageAlt": "Glistening waters of the Venetian canals as gondolas glide by at sunset.",
+    "Latitude": 45.4408,
+    "Longitude": 12.3155
+  },
+  {
+    "Id": "p13",
+    "Title": "Taj Mahal",
+    "ImageSrc": "taj-mahal.jpg",
+    "ImageAlt": "The iconic Taj Mahal reflecting in its surrounding waters during sunrise.",
+    "Latitude": 27.1751,
+    "Longitude": 78.0421
+  },
+  {
+    "Id": "p14",
+    "Title": "Kerala Backwaters",
+    "ImageSrc": "kerala-backwaters.jpg",
+    "ImageAlt": "Tranquil waters and lush greenery of the Kerala backwaters.",
+    "Latitude": 9.4981,
+    "Longitude": 76.3388
+  },
+  {
+    "Id": "p15",
+    "Title": "African Savanna",
+    "ImageSrc": "african-savanna.jpg",
+    "ImageAlt": "Wild animals roaming freely in the vast landscapes of the African savanna.",
+    "Latitude": -2.153,
+    "Longitude": 34.6857
+  },
+  {
+    "Id": "p16",
+    "Title": "Victoria Falls",
+    "ImageSrc": "victoria-falls.jpg",
+    "ImageAlt": "The powerful cascade of Victoria Falls, a natural wonder between Zambia and Zimbabwe.",
+    "Latitude": -17.9243,
+    "Longitude": 25.8572
+  },
+  {
+    "Id": "p17",
+    "Title": "Machu Picchu",
+    "ImageSrc": "machu-picchu.jpg",
+    "ImageAlt": "The historic Incan citadel of Machu Picchu illuminated by the morning sun.",
+    "Latitude": -13.1631,
+    "Longitude": -72.545
+  },
+  {
+    "Id": "p18",
+    "Title": "Amazon River",
+    "ImageSrc": "amazon-river.jpg",
+    "ImageAlt": "Navigating the waters of the Amazon River, surrounded by dense rainforest.",
+    "Latitude": -3.4653,
+    "Longitude": -58.38
+  }
+]
