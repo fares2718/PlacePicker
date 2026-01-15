@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/PlacePickerApi.csproj",
+      "projectUniqueName": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/PlacePickerApi.csproj",
       "projectName": "PlacePickerApi",
-      "projectPath": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/PlacePickerApi.csproj",
+      "projectPath": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/PlacePickerApi.csproj",
       "packagesPath": "/home/meshfares/.nuget/packages/",
-      "outputPath": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/obj/",
+      "outputPath": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/meshfares/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iNZTXJek7P3oJ/QJ4yB1rdApLDX3RuU6gdtU01keHqf3jGVVw4Tr0+yBqpfBxjZG+cZTSCL9vsxePNRE/jND9A==",
+  "dgSpecHash": "oC/BFMEUISj+hugRXV2dtp+g0an4fAMGLkltVyH1pql6rmyCAYrl1GRe7VYywwyVlnRfETz3GaIk5diSmKtHTQ==",
   "success": true,
-  "projectFilePath": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/PlacePickerApi.csproj",
+  "projectFilePath": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/PlacePickerApi.csproj",
   "expectedPackageFiles": [
     "/home/meshfares/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/meshfares/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",

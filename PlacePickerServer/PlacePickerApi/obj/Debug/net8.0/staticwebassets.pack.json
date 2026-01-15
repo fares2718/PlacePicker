@@ -1,75 +1,75 @@
 {
   "Files": [
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/african-savanna.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/african-savanna.jpg",
       "PackagePath": "staticwebassets/images/african-savanna.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/amazon-river.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/amazon-river.jpg",
       "PackagePath": "staticwebassets/images/amazon-river.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/caribbean-beach.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/caribbean-beach.jpg",
       "PackagePath": "staticwebassets/images/caribbean-beach.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/desert-dunes.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/desert-dunes.jpg",
       "PackagePath": "staticwebassets/images/desert-dunes.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/forest-waterfall.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/forest-waterfall.jpg",
       "PackagePath": "staticwebassets/images/forest-waterfall.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/grand-canyon.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/grand-canyon.jpg",
       "PackagePath": "staticwebassets/images/grand-canyon.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/great-barrier-reef.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/great-barrier-reef.jpg",
       "PackagePath": "staticwebassets/images/great-barrier-reef.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/japanese-temple.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/japanese-temple.jpg",
       "PackagePath": "staticwebassets/images/japanese-temple.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/kerala-backwaters.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/kerala-backwaters.jpg",
       "PackagePath": "staticwebassets/images/kerala-backwaters.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/machu-picchu.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/machu-picchu.jpg",
       "PackagePath": "staticwebassets/images/machu-picchu.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/majestic-mountains.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/majestic-mountains.jpg",
       "PackagePath": "staticwebassets/images/majestic-mountains.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/northern-lights.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/northern-lights.jpg",
       "PackagePath": "staticwebassets/images/northern-lights.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/parisian-streets.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/parisian-streets.jpg",
       "PackagePath": "staticwebassets/images/parisian-streets.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/rainforest.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/rainforest.jpg",
       "PackagePath": "staticwebassets/images/rainforest.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/ruins.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/ruins.jpg",
       "PackagePath": "staticwebassets/images/ruins.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/taj-mahal.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/taj-mahal.jpg",
       "PackagePath": "staticwebassets/images/taj-mahal.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/venetian-canals.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/venetian-canals.jpg",
       "PackagePath": "staticwebassets/images/venetian-canals.jpg"
     },
     {
-      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/victoria-falls.jpg",
+      "Id": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/victoria-falls.jpg",
       "PackagePath": "staticwebassets/images/victoria-falls.jpg"
     },
     {

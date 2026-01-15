@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlacePickerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25945ddec70176f9278ee008bcd6bf02eb3e31e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlacePickerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlacePickerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

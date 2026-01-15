@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qpVZfIYsxeyST19E+oXd2nDhQEooFuJtXFIhAaMhhCk=",
+  "Hash": "nV8kmSEVr+aEFYfn+mB0PWvDZX3WgBQcPypKsaCVfcU=",
   "Source": "PlacePickerApi",
   "BasePath": "_content/PlacePickerApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PlacePickerApi/wwwroot",
       "Source": "PlacePickerApi",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/african-savanna.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/african-savanna.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/african-savanna.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot/images/african-savanna.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/amazon-river.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/amazon-river.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/amazon-river.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot/images/amazon-river.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/caribbean-beach.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/caribbean-beach.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/caribbean-beach.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/images/caribbean-beach.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/desert-dunes.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/desert-dunes.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/desert-dunes.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/images/desert-dunes.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/forest-waterfall.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/forest-waterfall.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/forest-waterfall.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/images/forest-waterfall.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/grand-canyon.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/grand-canyon.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/grand-canyon.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/images/grand-canyon.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/great-barrier-reef.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/great-barrier-reef.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/great-barrier-reef.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/images/great-barrier-reef.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/japanese-temple.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/japanese-temple.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/japanese-temple.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/images/japanese-temple.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/kerala-backwaters.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/kerala-backwaters.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/kerala-backwaters.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/images/kerala-backwaters.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/machu-picchu.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/machu-picchu.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/machu-picchu.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/images/machu-picchu.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/majestic-mountains.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/majestic-mountains.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/majestic-mountains.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/images/majestic-mountains.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/northern-lights.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/northern-lights.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/northern-lights.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/images/northern-lights.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/parisian-streets.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/parisian-streets.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/parisian-streets.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/images/parisian-streets.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/rainforest.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/rainforest.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/rainforest.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/images/rainforest.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/ruins.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/ruins.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/ruins.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/images/ruins.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/taj-mahal.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/taj-mahal.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/taj-mahal.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/images/taj-mahal.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/venetian-canals.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/venetian-canals.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/venetian-canals.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/images/venetian-canals.jpg"
     },
     {
-      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/images/victoria-falls.jpg",
+      "Identity": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/images/victoria-falls.jpg",
       "SourceId": "PlacePickerApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerApi/wwwroot/",
+      "ContentRoot": "/home/meshfares/My_Projects/PlacePicker/PlacePickerServer/PlacePickerApi/wwwroot/",
       "BasePath": "_content/PlacePickerApi",
       "RelativePath": "images/victoria-falls.jpg",
       "AssetKind": "All",
